@@ -309,5 +309,5 @@ G923のFFB制御やWIZMOモーションチェア連動は、展示環境向け�
 
 ## リンク
 
-- プレイ動画：
-- 実行データ：[GitHub Releases](https://github.com/nyankomaru/AimRacing2026_Portfolio/releases/tag/v1.0.0)
+- [プレイ動画](https://youtu.be/B6l8yZzsMp4)
+- [実行データ](https://github.com/nyankomaru/AimRacing2026_Portfolio/releases/tag/v1.0.0)
